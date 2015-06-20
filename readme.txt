@@ -11,9 +11,9 @@ Easily import SEO settings from any XML or CSV file to Yoast WordPress SEO with 
 
 == Description ==
 
-The Yoast WordPress SEO Add-On for [WP All Import](http://www.wpallimport.com/order-now/?utm_source=free-plugin&utm_medium=dot-org&utm_campaign=yoast-seo) makes it easy to bulk import your SEO setting to the Yoast WordPress SEO plugin in less than 10 minutes.
+The Yoast WordPress SEO Add-On for [WP All Import](https://wordpress.org/support/plugin/wp-all-import) makes it easy to bulk import your SEO setting to the Yoast WordPress SEO plugin in less than 10 minutes.
 
-The left side of the plugin looks just like Yoast WordPress SEO, and the right side displays the data from your XML/CSV file. Then you can simply drag & drop the data from your XML or CSV into the Yoast WordPress SEO fields to import them.
+The left side shows all of the fields that you can import to and the right side displays the data from your XML/CSV file. Then you can simply drag & drop the data from your XML or CSV into the Yoast WordPress SEO fields to import them.
 
 The importer is so intuitive it is almost like manually configuring Yoast WordPress SEO when adding/editing a post.
 
