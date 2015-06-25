@@ -1,4 +1,4 @@
-=== Import SEO Settings into WordPress SEO by Yoast ===
+=== Import Settings into WordPress SEO by Yoast ===
 Contributors: soflyy, wpallimport
 Tags: seo, import seo, search engine optimization, import search engine optimization, yoast, import yoast, yoast seo, yoast wordpress seo, import yoast wordpress seo
 License: GPLv2 or later
