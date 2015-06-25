@@ -100,7 +100,7 @@ $yoast_addon->add_options(
 $yoast_addon->set_import_function( 'yoast_seo_addon_import' );
 
 $yoast_addon->admin_notice(
-	'The Yoast WordPress SEO Add-On requires WP All Import <a href="http://www.wpallimport.com/" target="_blank">Pro</a> or <a href="http://wordpress.org/plugins/wp-all-import" target="_blank">Free</a>, and the <a href="https://yoast.com/wordpress/plugins/seo/">Yoast WordPress SEO</a> plugin.',
+	'The Yoast WordPress SEO Add-On requires WP All Import <a href="http://www.wpallimport.com/order-now/?utm_source=free-plugin&utm_medium=dot-org&utm_campaign=yoast" target="_blank">Pro</a> or <a href="http://wordpress.org/plugins/wp-all-import" target="_blank">Free</a>, and the <a href="https://yoast.com/wordpress/plugins/seo/">Yoast WordPress SEO</a> plugin.',
 	array(
 		"plugins" => array( "wordpress-seo/wp-seo.php" )
 ) );
